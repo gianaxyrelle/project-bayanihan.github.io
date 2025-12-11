@@ -39,7 +39,7 @@ body {
 .card{background:var(--card);padding:20px;border-radius:10px;margin:18px 0;box-shadow:0 6px 18px rgba(12,18,16,0.04)}
 
 /* Impact grid */
-.impact-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;text-align:center}
+.impact-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:14px;text-align:center}
 .impact-item h3{font-size:28px;margin:6px 0;color:var(--accent)}
 
 /* Projects */
