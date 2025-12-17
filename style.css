@@ -72,3 +72,8 @@ button.secondary{background:#eee;color:#111}
 
 .site-footer{padding:18px 0;text-align:center;color:var(--muted);font-size:14px}
 @media (max-width:600px){.nav{flex-wrap:wrap;gap:8px}}
+.indented-list {
+  padding-left: 30px; /* controls indentation */
+  list-style-type: disc; /* bullet points */
+  line-height: 1.6; /* optional: adds space between items */
+}
